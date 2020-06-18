@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/nathalie123321/tutorial-website/issues"
   },
-  "homepage": "https://github.com/nathalie123321/tutorial-website#readme"
+  "homepage": "https://github.com/nathalie123321/tutorial-website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "webpack": "^4.43.0"
+  }
 }
